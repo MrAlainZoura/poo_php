@@ -1,0 +1,18 @@
+{
+    "name": "ecom/site-ecom",
+    "autoload": {
+        "psr-4": {
+            "Routeur\\": "Routeur",
+            "Exception\\": "Exception",
+            "Controlers\\": "Controlers",
+            "Source\\": "src",
+            "Model\\": "model"
+        }
+    },
+    "authors": [
+        {
+            "name": "ecom"
+        }
+    ],
+    "require": {}
+}
